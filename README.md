@@ -1,4 +1,20 @@
 # IFrame module
+[![Build Status](https://travis-ci.org/gordonbanderson/silverstripe-iframe.svg?branch=codecoverage)](https://travis-ci.org/gordonbanderson/silverstripe-iframe)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/gordonbanderson/silverstripe-iframe/badges/quality-score.png?b=codecoverage)](https://scrutinizer-ci.com/g/gordonbanderson/silverstripe-iframe/?branch=codecoverage)
+[![Build Status](https://scrutinizer-ci.com/g/gordonbanderson/silverstripe-iframe/badges/build.png?b=codecoverage)](https://scrutinizer-ci.com/g/gordonbanderson/silverstripe-iframe/build-status/codecoverage)
+[![codecov.io](https://codecov.io/github/gordonbanderson/silverstripe-iframe/coverage.svg?branch=codecoverage)](https://codecov.io/github/gordonbanderson/silverstripe-iframe?branch=codecoverage)
+
+[![Latest Stable Version](https://poser.pugx.org/silverstripe/iframe/version)](https://packagist.org/packages/silverstripe/iframe)
+[![Latest Unstable Version](https://poser.pugx.org/silverstripe/iframe/v/unstable)](//packagist.org/packages/silverstripe/iframe)
+[![Total Downloads](https://poser.pugx.org/silverstripe/iframe/downloads)](https://packagist.org/packages/silverstripe/iframe)
+[![License](https://poser.pugx.org/silverstripe/iframe/license)](https://packagist.org/packages/silverstripe/iframe)
+[![Monthly Downloads](https://poser.pugx.org/silverstripe/iframe/d/monthly)](https://packagist.org/packages/silverstripe/iframe)
+[![Daily Downloads](https://poser.pugx.org/silverstripe/iframe/d/daily)](https://packagist.org/packages/silverstripe/iframe)
+
+[![Dependency Status](https://www.versioneye.com/php/silverstripe:iframe/badge.svg)](https://www.versioneye.com/php/silverstripe:iframe)
+[![Reference Status](https://www.versioneye.com/php/silverstripe:iframe/reference_badge.svg?style=flat)](https://www.versioneye.com/php/silverstripe:iframe/references)
+
+![codecov.io](https://codecov.io/github/gordonbanderson/silverstripe-iframe/branch.svg?branch=codecoverage)
 
 ## Introduction
 
